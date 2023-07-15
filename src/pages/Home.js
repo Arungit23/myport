@@ -26,7 +26,7 @@ function Home() {
      <li className="item">
      <h2>Front-End</h2>
      <span>
-      ReactJS, Angular, Html, CSS, BootStrap, NPM
+      ReactJS, Html, CSS, BootStrap, NPM
      </span>
      </li>
      <li className="item">

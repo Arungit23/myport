@@ -13,7 +13,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href='https://instagram.com/_mr_cra_zy_kid?igshid=ZDc4ODBmNjlmNQ=='><InstagramIcon /></a>
+        <a href='https://instagram.com/__s_i_n_g_l_e_p_a_i_y_a_n?igshid=ZDc4ODBmNjlmNQ=='><InstagramIcon /></a>
         <TwitterIcon />
         <FacebookIcon />
         <a href='https://www.linkedin.com/in/arunkumar-k-9553b9206'> <LinkedInIcon /></a>

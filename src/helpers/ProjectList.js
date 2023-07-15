@@ -16,11 +16,11 @@ export const ProjectList = [
     image: Proj2,
     skills: "React,Html, Css",
   },
-  //     {
-  //   name: "Spotify Clone",
-  //   image: Proj3,
-  //   skills: "React,Node.js,MongoDB,SpotifyAPI",
-  //  },
+      {
+    name: "JOB PORTTAL",
+    image: Proj3,
+    skills: "React,Css,",
+   },
      {
     name: "Color Flipper",
     image: Proj4,
